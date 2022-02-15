@@ -48,7 +48,7 @@ attribute name
 3. element name
 4. content
 
-
+OK, JS is somewhat similar to Python.
 
 4. Module 4 - Introduction to javascript
     - 01_Javascript basics.
@@ -59,7 +59,6 @@ attribute name
     - 01_Document object model manipulation
     - 02_introduction to ajax
     - 03_using ajax to connect restaurant site with
-
 
 
 <!--<div style="page-break-after: always;"></div>-->
