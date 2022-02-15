@@ -48,6 +48,11 @@ attribute name
 3. element name
 4. content
 
+##### JSON
+- Subset of JavaScript object literal syntax, but
+    * Property names must be in *double* quotes
+    * String values must be in *double* quotes
+
 OK, JS is somewhat similar to Python.
 
 4. Module 4 - Introduction to javascript
