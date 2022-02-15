@@ -54,6 +54,7 @@ attribute name
     * String values must be in *double* quotes
 
 OK, JS is somewhat similar to Python.
+Sublime Merge test.
 
 4. Module 4 - Introduction to javascript
     - 01_Javascript basics.
