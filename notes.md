@@ -5,9 +5,7 @@
 
 ##### Lection 1.
 
-https://github.com/freeCodeCamp/freeCodeCamp
-
-`browser-sync start --server --directory --files "*"`
+[https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ```bash
 #
@@ -29,9 +27,7 @@ CSS | Style | Cascading Style Sheets
 --- | --- | ---
 Javascript | Behavoir |  JS
 
-##### Lection 2. Relevant history of html
-- W3C - html5 standard.
-- WHATWG - html evolving
+
 
 **Useful resourses**
 
@@ -41,11 +37,11 @@ Javascript | Behavoir |  JS
 - www.w3schools.com/browsers
 - https://codepen.io/pen/
 
-
+#####   API  & REST API
 API - Application Programming Interface.
 REST - REpresentational State Transfer.
-
-
+https://apigee.com    https://apigee.com/console
+https://www.programmableweb.com/apis/directory
 
 ##### JSON
 - Subset of JavaScript object literal syntax, but
@@ -61,10 +57,18 @@ sqlite3 --version
 
 
 
+##### Lection 2. Relevant history of html
+- W3C - html5 standard.
+- WHATWG - html evolving
 
 
+1. Module 1 - Introduction to html5
+2. Module 2 - Introduction to css3
+3. Module 3 - Coding the static restaurant site
+4. Module 4 - Introduction to javascript
+5. Module 5 - Using javascript to build web appl 
 
-#### Module 4 - Introduction to javascript
+##### Module 4 - Introduction to javascript
 1. 01_Javascript basics.
    - Welcome to module 4 introduction to javascript
    - Lecture 40.1 - Adj dev env for javascript development
@@ -94,7 +98,7 @@ sqlite3 --version
    - Lecture 52 part 2 immediately invoked functio
    - Module 4 wrap up
 
-### Module 5 - Using javascript to build web appl 
+##### Module 5 - Using javascript to build web appl 
 1. 01_Document object model manipulation
    - Welcome to module 5 using javascript to build
    - Lecture 53 part 1 dom manipulation
