@@ -41,36 +41,30 @@ Javascript | Behavoir |  JS
 - www.w3schools.com/browsers
 - https://codepen.io/pen/
 
-##### Lection 2. Anatomy of an HTML flag
-1. opening tag - closing tag (not all) + 
-attribute name
-2. opening tag - ATTRIBUTES, value in quotes.
-3. element name
-4. content
+
+API - Application Programming Interface.
+REST - REpresentational State Transfer.
+
+
 
 ##### JSON
 - Subset of JavaScript object literal syntax, but
     * Property names must be in *double* quotes
     * String values must be in *double* quotes
 
-OK, JS is somewhat similar to Python.
-Sublime Merge test.
-
-4. Module 4 - Introduction to javascript
-    - 01_Javascript basics.
-    - 02_Javascript types and common language const
-    - 03_objects and functions in javascript
-    - 04_Arrays closures and namespaces
-5. Module 5 - Using javascript to build web appl 
-    - 01_Document object model manipulation
-    - 02_introduction to ajax
-    - 03_using ajax to connect restaurant site with
+#####  SQL with SQLite
+sudo apt install sqlite3 
+sqlite3 --version
 
 
-<!--<div style="page-break-after: always;"></div>-->
 
 
-### Module 4 - Introduction to javascript
+
+
+
+
+
+#### Module 4 - Introduction to javascript
 1. 01_Javascript basics.
    - Welcome to module 4 introduction to javascript
    - Lecture 40.1 - Adj dev env for javascript development
